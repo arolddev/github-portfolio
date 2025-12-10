@@ -43,7 +43,7 @@ window.addEventListener("scroll", () => {
 });
 
 
-  const roles = ["Junior Web Developer", "Frontend Developer", "UI Enthusiast"];
+  const roles = ["Web Developer", "Frontend Developer", "UI Enthusiast"];
   let idx = 0;
 
   function rotateText() {
